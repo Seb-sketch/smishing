@@ -1,5 +1,9 @@
 package com.example.smishingdetectionapp.data.model;
 
+/**
+ * Possible Data model for NewsFeed application
+*/
+
 public class NewsArticle {
     private String title;
     private String description;
